@@ -1,0 +1,27 @@
+body{
+	background: #939393;
+}
+li{
+	display: inline-block;
+}
+.navbar{
+	background: #ffffff;
+	width: 100%;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+.menu{
+	width: 100%;
+	max-width: 1000px;
+	margin:0 auto;
+	background: #eb4b33;
+	text-align: center;
+	font-size: 200%;
+	font-family: arial;
+	font-weight: bold;
+}
+ul{
+	max-width: 1000px;
+	text-align: left;
+	
+}
